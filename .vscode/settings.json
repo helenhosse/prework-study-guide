@@ -1,0 +1,6 @@
+{
+    "git.verboseCommit": true,
+    "git.fetchOnPull": true,
+    "git.enableSmartCommit": true,
+    "git.enableCommitSigning": true
+}
